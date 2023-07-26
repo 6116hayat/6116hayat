@@ -6,11 +6,11 @@
 Here are some ideas to get you started:
 -->
 Hey Welcome to My GitHub Profile;
-- 🔭 I’m currently working on Girl Script of Code As A contributor 
+- 🔭 I’m currently working on My own 2D Game Project 
 - 🌱 I’m currently learning Java 
-- 👯 I’m looking to collaborate on Open Source
+- 👯 I’m looking to collaborate on Open Source 
+- 🤔 I’m looking for help with My 2D multiplayer Game
 <!--
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 -->
 - 📫 How to reach me: on twitter @6116hayat
