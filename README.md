@@ -10,11 +10,7 @@ Hey Welcome to My GitHub Profile;
 - 🌱 I’m currently learning Java 
 - 👯 I’m looking to collaborate on Open Source 
 <!-- - 🤔 I’m looking for help with My 2D multiplayer Game -->
-<!--
-- 💬 Ask me about ...
--->
+<!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: on twitter @6116hayat
 - 😄 Pronouns: He/Him
-<!--
-- ⚡ Fun fact: ...
--->
+<!-- - ⚡ Fun fact: ... -->
