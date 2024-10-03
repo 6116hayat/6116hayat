@@ -1,7 +1,7 @@
-[![MasterHead]<iframe src="https://assets.pinterest.com/ext/embed.html?id=13440498882312191" height="287" width="345" frameborder="0" scrolling="no" ></iframe>
+
 <h1 align="center">Hi 👋, I'm Umar Hayat</h1>
 <h3 align="center">A passionate Java developer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://assets.pinterest.com/ext/embed.html?id=6192518231492457" height="716" width="345" frameborder="0" scrolling="no)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=6116hayat&label=Profile%20views&color=0e75b6&style=flat" alt="6116hayat" /> </p>
 
