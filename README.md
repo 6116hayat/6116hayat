@@ -45,10 +45,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=6116hayat&" alt="6116hayat" /></p>
 
----
-
+<!-- 
 ### 🐍 Snake Animation for Contributions
 ![Snake Animation](https://github.com/6116hayat/6116hayat/blob/output/snake.svg)
-
-
+-->
 
