@@ -12,8 +12,8 @@
 
 ---
 
-- 🌱 I’m currently learning **SpringBoot, MERN**
-- 💬 Ask me about **Java, Python, C**
+- 🌱 I’m currently learning **BACKEND DEVELOPMENT, MERN**
+- 💬 Ask me about **Java, Python**
 - 📫 Reach me at **umarhayat9718@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
