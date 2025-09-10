@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Umar Hayat</h1>
 <h3 align="center">Welcome to my GitHub Profile</h3>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">Full Stack Java Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=6116hayat&label=Profile%20views&color=0e75b6&style=flat" alt="6116hayat" /> </p>
 
