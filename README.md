@@ -1,54 +1,138 @@
-<h1 align="center">Hi 👋, I'm Umar Hayat</h1>
-<h3 align="center">Welcome to my GitHub Profile</h3>
-<h3 align="center">Full Stack Java + MERN Developer</h3>
+<h1 align="center">Hey, I'm Hayat 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=6116hayat&label=Profile%20views&color=0e75b6&style=flat" alt="6116hayat" /> </p>
+<p align="center">
+  Full Stack Developer • Builder • Forever Student<br/>
+  Java + MERN • Spring Boot • React<br/>
+</p>
 
-<p align="left"> <a href="https://twitter.com/6116hayat" target="blank"><img src="https://img.shields.io/twitter/follow/6116hayat?logo=twitter&style=for-the-badge" alt="6116hayat" /></a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=6116hayat&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-![Luffy GIF](https://media.giphy.com/media/fhH2o6SHOjOtphR3DR/giphy.gif?cid=790b76119nigopycxrxnnz27fde9fw7cfy5s8ztq0vv9q0hs&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+## 🚀 About Me
+
+- 🎓 Student with a strong bias toward **learning by building**
+- ☕ Part of **ChaiCode Cohort 26**
+- 🧠 I care about *why* things work, not just *that* they work
+- 🛠️ Full Stack Developer (Java + MERN)
+- 📈 Progress-driven, perfection-resistant
+
+> Small steps, taken consistently, beat motivation every time.
 
 ---
 
-- 🌱 I’m currently learning **BACKEND DEVELOPMENT, MERN**
-- 💬 Ask me about **Java, MERN**
-- 📫 Reach me at **umarhayat9718@gmail.com**
+## 🧩 What I’m Working On
 
-<h3 align="left">Connect with me:</h3>
+- 🔧 Building real-world full stack applications
+- 📚 Strengthening fundamentals (they compound hard)
+- ✍️ Writing blogs to clarify concepts
+- 🔁 Refactoring old code with new perspective
+
+Confusion shows up. I debug it. Then I ship anyway.
+
+---
+
+## 🛠️ Tech Stack (Actively Used)
+
+### ☕ Full Stack Java
 <p align="left">
-<a href="https://twitter.com/6116hayat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="6116hayat" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/6116hayat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="6116hayat" height="30" width="40" /></a>
-<!--<a href="https://www.hackerrank.com/hayat6116" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hayat6116" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/6116hayat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="6116hayat" height="30" width="40" /></a> -->
-<!-- <a href="https://www.instagram.com/hayatzone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="6116hayat" height="30" width="40" /></a> -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
+  <img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" width="40"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <!-- <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> -->
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring boot" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40"/> </a>
+**Java • Spring • Spring Boot • MySQL • Postman • IntelliJ IDEA**
+
+---
+
+### 🌐 Full Stack MERN
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+</p>
+
+**MongoDB • Express • React • Node.js • JavaScript • HTML • CSS**
+
+---
+
+### 🎨 Styling, Tooling & Extras
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
+</p>
+
+**Tailwind • Bootstrap • Prisma • GSAP • Git • GitHub • VS Code**
+
+(Yes, this stack will evolve. That’s the point.)
+
+---
+
+## ✍️ I Write to Learn
+
+I write so future-me doesn’t suffer.
+
+📖 Blogs:
+- 👉 [Dev.to](https://dev.to/6116hayat)
+- 👉 [Hashnode](https://hashnode.com/@6116hayat)
+
+---
+
+## 🌱 Learning Philosophy
+
+- Learn → Build → Break → Fix → Repeat
+- Shipping > hoarding ideas
+- Clean code is written *after* ugly code works
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=6116hayat&show_icons=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=6116hayat" />
 </p>
 
 ---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=6116hayat&show_icons=true&locale=en" alt="6116hayat" /></p>
+## 🔗 Let’s Connect
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=6116hayat&" alt="6116hayat" /></p>
+<p align="center">
+  <a href="https://x.com/6116hayat">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/6116hayat/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://discordapp.com/users/6116hayat">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+</p>
 
-<!-- 
-### 🐍 Snake Animation for Contributions
-![Snake Animation](https://github.com/6116hayat/6116hayat/blob/output/snake.svg)
--->
+> 🔍 Username flex: `6116hayat` almost everywhere  
+> 🐦 Mostly active on Twitter
+
+---
+
+## 🧭 Final Note
+
+This profile shows **who I’m becoming**, not just what I already know.
+
+If you’re here to:
+- 👀 Explore → welcome  
+- 🧑‍🏫 Mentor → feedback appreciated  
+- 👨‍💻 Collaborate → let’s build  
+
+**Growth > Perfection. Always.**
