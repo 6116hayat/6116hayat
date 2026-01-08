@@ -117,6 +117,8 @@ I write so future-me doesn’t suffer.
   </a>
 </p>
 
+Personal Website: 🔗 _Link coming soon_ (work in progress)
+
 > 🔍 Username flex: `6116hayat` almost everywhere  
 > 🐦 Mostly active on Twitter
 
