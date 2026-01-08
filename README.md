@@ -98,11 +98,7 @@ I write so future-me doesn’t suffer.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=6116hayat&show_icons=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=6116hayat" />
+  <img src="https://streak-stats.demolab.com?user=6116hayat&theme=radical" />
 </p>
 
 ---
