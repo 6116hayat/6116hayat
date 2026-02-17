@@ -11,6 +11,10 @@
 
 ---
 
+<a href="https://app.daily.dev/6116hayat"><img src="https://api.daily.dev/devcards/v2/l8oWoBErFTzLpozAYg1AN.png?r=xrc&type=wide" width="652" alt="Umar Hayat's Dev Card"/></a>
+
+---
+
 ## 🚀 About Me
 
 - 🎓 Student with a strong bias toward **learning by building**
