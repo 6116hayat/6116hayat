@@ -18,7 +18,6 @@
 ## 🚀 About Me
 
 - 🎓 Student with a strong bias toward **learning by building**
-- ☕ Part of **ChaiCode Cohort 26**
 - 🧠 I care about *why* things work, not just *that* they work
 - 🛠️ Full Stack Developer (Java + MERN)
 - 📈 Progress-driven, perfection-resistant
